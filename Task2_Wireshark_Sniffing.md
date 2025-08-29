@@ -20,7 +20,7 @@ Intercept and analyze network traffic to capture credentials from an HTTP site.
 - Highlighted the security risk of using HTTP instead of HTTPS.
 
 ## Screenshots
-![HTTP Packet Capture](Screenshots/task2_wireshark_1.png)
+![First screenshot](Screenshots/task2_wireshark_1.png)
 ![Credentials Intercepted](Screenshots/task2_wireshark_2.png)
 ![Packet Details](Screenshots/task2_wireshark_3.png)
 
