@@ -1,7 +1,7 @@
 
 
 
-![Email Header Analysis](Screenshots/Task1_email_1.png)
+![Email Header Analysis](Screenshots/task1_email_1.png)
 ![SPF/DMARC Pass](screenshots/Task1_email_2.png)
 (screenshots/Task1_email_1.png)
 (screenshots/Task1_email_2.png)
