@@ -20,9 +20,9 @@ Intercept and analyze network traffic to capture credentials from an HTTP site.
 - Highlighted the security risk of using HTTP instead of HTTPS.
 
 ## Screenshots
-![HTTP Packet Capture](Screenshots/Task2_wireshark_1.png)
-![Credentials Intercepted](Screenshots/Task2_wireshark_2.png)
-![Packet Details](Screenshots/Task2_wireshark_3.png)
+![HTTP Packet Capture](Screenshots/task2_wireshark_1.png)
+![Credentials Intercepted](Screenshots/task2_wireshark_2.png)
+![Packet Details](Screenshots/task2_wireshark_3.png)
 
 ## Key Lessons
 - Always use HTTPS to protect data in transit.
