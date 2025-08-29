@@ -17,9 +17,9 @@ Analyze a sample email to identify potential security risks and red flags.
 - The email was properly authenticated, reducing the risk of spoofing.
 
 ## Screenshots
-![First Screenshot](Screenshots/task1_email_1.png)
-![Second Screenshot](Screenshots/task1_email_2.png)
-![Third Screenshot](Screenshots/task1_email_3.png)
+![Email Screenshot](Screenshots/task1_email_1.png)
+![ Copied HeaderScreenshot](Screenshots/task1_email_2.png)
+![Test Analysis Screenshot](Screenshots/task1_email_3.png)
 
 
 ## Key Lessons
